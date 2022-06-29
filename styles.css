@@ -15,3 +15,6 @@ h1,h2,h3{
 .circular{
   border-radius : 100% ;
 }
+a:hover{
+  background-color: lightblue;
+}
