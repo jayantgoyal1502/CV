@@ -35,3 +35,7 @@ a:hover{
 .middle{
   position: absolute;
 }
+.mountain{
+  position: relative;
+  right : 70px;
+}
