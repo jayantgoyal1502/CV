@@ -24,9 +24,13 @@ a:hover{
 }
 .bottom{
   position: absolute;
+    left: 300px;
 }
 .top{
   position: absolute;
   top: 10px;
   left: 100px;
+}
+.middle{
+  position: absolute;
 }
