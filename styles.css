@@ -1,3 +1,7 @@
+div{
+  padding-top: 100px;
+    text-align: center;
+}
 body{
   background-color:#EAF6F6;
 }
@@ -13,8 +17,16 @@ h1,h2,h3{
   color: #66BFBF;
 }
 .circular{
-  border-radius : 100% ;
+  border-radius:  100%;
 }
 a:hover{
   background-color: lightblue;
+}
+.bottom{
+  position: absolute;
+}
+.top{
+  position: absolute;
+  top: 10px;
+  left: 100px;
 }
