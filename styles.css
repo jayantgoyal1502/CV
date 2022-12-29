@@ -5,6 +5,7 @@ div{
 }
 body{
   background-color:#EAF6F6;
+  font-family: 'Merriweather', serif;
 }
 
 hr{
@@ -14,8 +15,18 @@ hr{
   border-color: grey;
   border-width: 5px;
 }
-h1,h2,h3{
+h1{
   color: #66BFBF;
+  color: #66BFBF;
+  font-family: 'Sacramento', cursive;
+}
+h2{
+  color: #66BFBF;
+  font-family: 'Montserrat', sans-serif;
+}
+h3{
+  color: #66BFBF;
+  font-family: 'Merriweather', serif;
 }
 .circular{
   border-radius:  100%;
@@ -38,4 +49,9 @@ a:hover{
 .mountain{
   position: relative;
   right : 70px;
+}
+p{
+  font-size: 1rem;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: normal;
 }
